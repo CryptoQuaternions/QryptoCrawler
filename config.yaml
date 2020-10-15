@@ -1,0 +1,4 @@
+logging:
+  folder: "logs/"
+  prefix: "binance-"
+  timeformat: "%m-%d-%Y.%H.%M.%S"
