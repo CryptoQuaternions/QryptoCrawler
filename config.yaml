@@ -1,4 +1,4 @@
 logging:
   folder: "logs/"
-  prefix: "binance-"
+  prefix: "QryptoCrawler-"
   timeformat: "%m-%d-%Y.%H.%M.%S"
